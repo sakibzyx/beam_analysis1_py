@@ -48,11 +48,3 @@ plt.title("BMD")
 
 
 plt.show()
-
-git config --global user.name "SakibZYX"
-cd D:\beam_analysis1_py
-
-git config --global user.name "Your Name"
-git config --global user.email "youremail@example.com"
-
-git remote add origin 
